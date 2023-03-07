@@ -1,0 +1,19 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "diagonal-difference": "nodemon 01-diagonal-difference.js",
+    "staircase": "nodemon 02-staircase.js",
+    "plus-minus": "nodemon 03-plus-minus.js",
+    "mini-max-sum": "nodemon 04-mini-max-sum"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
